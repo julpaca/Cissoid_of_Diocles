@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cissoid_of_Diocles", "Cissoid_of_Diocles\Cissoid_of_Diocles.csproj", "{8C8CA1CA-5BBC-475C-9643-176E83D1A44A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8CA1CA-5BBC-475C-9643-176E83D1A44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8CA1CA-5BBC-475C-9643-176E83D1A44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8CA1CA-5BBC-475C-9643-176E83D1A44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8CA1CA-5BBC-475C-9643-176E83D1A44A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CED1094-0A93-4930-80A2-462FA0EAD400}
+	EndGlobalSection
+EndGlobal
